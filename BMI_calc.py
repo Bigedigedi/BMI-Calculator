@@ -3,6 +3,10 @@
 
 # In[ ]:
 
+"""
+usage: BMI_calc.py size in cm weight in kg
+
+"""
 
 size = float(input("Please give your size in cm"))
 weight = float(input("Please give your weight in kg"))
