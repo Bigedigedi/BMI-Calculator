@@ -1,6 +1,5 @@
-from distutils.core import setup  
-    "setup(name='BMI_Calculator',\n",
-    "      version='1.0',\n",
-    "      scripts=['BMI_calc.py']\n",
-    "      )"
+from distutils.core import setup
+setup(name="BMI_Calculator",
+	version='1.0',
+	scripts=['BMI_calc.py'])
 
